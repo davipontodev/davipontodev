@@ -1,21 +1,28 @@
-<h1 align="center">Olá, eu sou o Davi 👋</h1>
-<h3 align="center">Estudante de Tecnologia da Informação | Futuro Desenvolvedor</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BF5,100:1E3A8A&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Davi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20|%20Futuro%20Desenvolvedor&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B8BF5&center=true&vCenter=true&width=500&lines=Aprendendo+Java+%F0%9F%9F%A0;Aprendendo+Python+%F0%9F%90%8D;Estudando+HTML+%26+CSS+%F0%9F%8E%A8;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4B8BF5&center=true&vCenter=true&width=550&lines=Aprendendo+Java+%E2%98%95;Aprendendo+Python+%F0%9F%90%8D;Estudando+HTML+%26+CSS+%F0%9F%8E%A8;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davipontodev&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=4B8BF5&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=davipontodev&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=4B8BF5&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Tenho 19 anos e curso **Tecnologia da Informação** na **UFMS**, na modalidade **EAD**
-- 💻 Atualmente estou aprendendo **Java**, **HTML**, **CSS** e **Python**
-- 🌱 Sempre buscando aprender algo novo e evoluir como desenvolvedor
+```yaml
+Nome: Davi
+Idade: 19 anos
+Curso: Tecnologia da Informação - UFMS (EAD)
+Foco atual: Java, Python, HTML & CSS
+Objetivo: Me tornar um desenvolvedor de software
+```
+
+- 🎓 Estudante de **Tecnologia da Informação** na **UFMS**, modalidade **EAD**
+- 💻 Aprendendo **Java**, **Python**, **HTML** e **CSS**
+- 🌱 Sempre em busca de novos conhecimentos e projetos práticos
 - 📫 Me encontre no Instagram: [@davivitoroliveiraa](https://www.instagram.com/davivitoroliveiraa/)
 - ⚡ Fun fact: todo grande desenvolvedor um dia também começou do zero!
 
@@ -35,6 +42,18 @@
 
 ---
 
+### 📂 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/davipontodev?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davipontodev&repo=davipontodev&theme=tokyonight&hide_border=true" alt="repositório davipontodev"/>
+  </a>
+</p>
+
+> 💡 Assim que você criar novos repositórios, pode fixar até 6 no seu perfil (botão "Customize your pins") e adicionar mais cards aqui, um para cada projeto.
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -44,6 +63,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davipontodev&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davipontodev&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
 </p>
 
 ---
@@ -64,6 +91,4 @@
   </a>
 </p>
 
----
-
-<p align="center"><i>⭐️ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios.</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:4B8BF5&height=100&section=footer"/>
