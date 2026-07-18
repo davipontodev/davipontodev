@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BF5,100:1E3A8A&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Davi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20|%20UFMS&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BF5,100:1E3A8A&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Davi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20|%20&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4B8BF5&center=true&vCenter=true&width=550&lines=Aprendendo+Java+%E2%98%95;Aprendendo+Python+%F0%9F%90%8D;Estudando+HTML+%26+CSS+%F0%9F%8E%A8;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
