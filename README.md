@@ -14,7 +14,7 @@
 
 ```yaml
 Nome: Davi
-Idade: 19 anos
+Idade: 20 anos
 Curso: Tecnologia da Informação 
 Foco atual: Java, Python, HTML & CSS
 Objetivo: Me tornar um desenvolvedor de software
